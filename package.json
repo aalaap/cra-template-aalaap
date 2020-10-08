@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-aalaap",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The sensible default template for Create React App to get started quickly.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aalaap/cra-template-aalaap.git",
+    "directory": "packages/cra-template-aalaap"
+  },
+  "license": "MIT",
+  "main": "template.json",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/aalaap/cra-template-aalaap/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
